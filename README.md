@@ -1,3 +1,4 @@
+- [How to setup AdGuard Home on a public server](https://adguard.com/en/blog/adguard-home-on-public-server.html)
 - [bohanyang/debi: Reinstall your VPS to minimal Debian](https://github.com/bohanyang/debi)
 - [X-UI-Unofficial/docker: XUI Docker](https://github.com/X-UI-Unofficial/docker)
 - [docker/docker-compose.yml at main · X-UI-Unofficial/docker](https://github.com/X-UI-Unofficial/docker/blob/main/docker-compose.yml)
