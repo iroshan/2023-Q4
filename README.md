@@ -1,4 +1,4 @@
-- [Document  2507035.1](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=544067183253484&parent=EXTERNAL_SEARCH&sourceId=PROBLEM&id=2507035.1&_afrWindowMode=0&_adf.ctrl-state=177mi4kpem_151)
+- [	Setting PRESERVE_HOSTINFO=2 in /etc/oci-hostname.conf Does Not Prevent /etc/resolv.conf ](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=544067183253484&parent=EXTERNAL_SEARCH&sourceId=PROBLEM&id=2507035.1&_afrWindowMode=0&_adf.ctrl-state=177mi4kpem_151)
 - [Document  2681491.1](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=544048732319435&parent=EXTERNAL_SEARCH&sourceId=PROBLEM&id=2681491.1&_afrWindowMode=0&_adf.ctrl-state=177mi4kpem_102)
 - [How to setup AdGuard Home on a public server](https://adguard.com/en/blog/adguard-home-on-public-server.html)
 - [bohanyang/debi: Reinstall your VPS to minimal Debian](https://github.com/bohanyang/debi)
