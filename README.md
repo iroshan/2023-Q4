@@ -1,4 +1,5 @@
 - [How to create a free Oracle VPS with Python script (Out of capacity)?](https://www.hintdesk.com/2022/01/15/how-to-create-a-free-oracle-vps-with-python-script-out-of-capacity/)
+- [How to create a free Oracle VPS with Python script (Out of capacity)?](https://www.hintdesk.com/2022/01/15/how-to-create-a-free-oracle-vps-with-python-script-out-of-capacity/)
 - [Field, The](https://www.goodreads.com/book/show/320132.Field_The)
 - [	Setting PRESERVE_HOSTINFO=2 in /etc/oci-hostname.conf Does Not Prevent /etc/resolv.conf ](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=544067183253484&parent=EXTERNAL_SEARCH&sourceId=PROBLEM&id=2507035.1&_afrWindowMode=0&_adf.ctrl-state=177mi4kpem_151)
 - [Document  2681491.1](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=544048732319435&parent=EXTERNAL_SEARCH&sourceId=PROBLEM&id=2681491.1&_afrWindowMode=0&_adf.ctrl-state=177mi4kpem_102)
