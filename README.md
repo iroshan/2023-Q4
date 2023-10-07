@@ -1,3 +1,4 @@
+- [audioserve/docs/deploy.md at master · izderadicka/audioserve](https://github.com/izderadicka/audioserve/blob/master/docs/deploy.md)
 - [izderadicka/audioserve: Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.](https://github.com/izderadicka/audioserve)
 - [audiobookshelf](https://www.audiobookshelf.org/guides/)
 - [How to sync Microsoft OneDrive from command-line in Linux](https://www.fosslinux.com/24391/how-to-sync-microsoft-onedrive-from-command-line-in-linux.htm)
