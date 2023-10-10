@@ -1,3 +1,4 @@
+- [Pay scales for junior doctors in England](https://www.bma.org.uk/pay-and-contracts/pay/junior-doctors-pay-scales/pay-scales-for-junior-doctors-in-england)
 - [A Guide to Recruitment 2021](https://medibuddy.co.uk/gp-stage-3/a-guide-to-gp-recruitment/)
 - [Library Genesis Proxy Mirror Links: Libgen io, Libgen rs, Libgen is](https://libgen.onl/library-genesis/)
 - [21 Tough NHS Interview Questions and Answers | NHS Career Guide](https://passmyinterview.com/21-tough-nhs-interview-questions-and-answers/)
