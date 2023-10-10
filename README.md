@@ -1,3 +1,4 @@
+- [A Guide to Recruitment 2021](https://medibuddy.co.uk/gp-stage-3/a-guide-to-gp-recruitment/)
 - [Library Genesis Proxy Mirror Links: Libgen io, Libgen rs, Libgen is](https://libgen.onl/library-genesis/)
 - [21 Tough NHS Interview Questions and Answers | NHS Career Guide](https://passmyinterview.com/21-tough-nhs-interview-questions-and-answers/)
 - [10 Key NHS Job Interview Questions – With Answers [2023]](https://www.wikijob.co.uk/interview-advice/interview-questions/nhs-interview-questions)
