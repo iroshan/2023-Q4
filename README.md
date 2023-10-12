@@ -1,3 +1,4 @@
+- [How to Answer Management Questions | Core Surgical Training Interview](https://www.youtube.com/watch?v=_khfeU3g4Yc)
 - [How to Answer Clinical Scenario Questions | Core Surgical Training Interview](https://www.youtube.com/watch?v=V_ig8KttpUo)
 - [22 Doctor Interview Questions & Answers | Pass Your Medical Interview](https://passmyinterview.com/doctor-interview/)
 - [Pay scales for junior doctors in England](https://www.bma.org.uk/pay-and-contracts/pay/junior-doctors-pay-scales/pay-scales-for-junior-doctors-in-england)
