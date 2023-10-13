@@ -1,3 +1,4 @@
+- [Commonly asked NHS Interview Question - What is Evidence Based Medicine?](https://www.youtube.com/watch?v=wy2wn58LH_Y)
 - [Medical Ethics MUST KNOWS For Medical School Interviews](https://www.youtube.com/watch?v=9ieikk2oIbY)
 - [How To Tackle ANY Medical Ethics Scenario](https://www.youtube.com/watch?v=k37sIHnMAmc)
 - [How to handle Ethical scenario questions during NHS Doctors interview ? #roadtouk #NHSinterview](https://www.youtube.com/watch?v=rCqLjGBYSeg)
