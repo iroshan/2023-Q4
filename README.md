@@ -1,3 +1,4 @@
+- [How To Tackle ANY Medical Ethics Scenario](https://www.youtube.com/watch?v=k37sIHnMAmc)
 - [How to handle Ethical scenario questions during NHS Doctors interview ? #roadtouk #NHSinterview](https://www.youtube.com/watch?v=rCqLjGBYSeg)
 - [Audits & QIPs / Basic concepts / For international Medical Students & IMG Doctors](https://www.youtube.com/watch?v=SfhjjZC89x8)
 - [Commonly asked NHS Interview Question - What are your Hobbies?](https://www.youtube.com/watch?v=e1bxejpfGcU)
