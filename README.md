@@ -1,3 +1,4 @@
+- [NHS Interview Questions and Answers](https://www.bdiresourcing.com/img-media-hub/blog/nhs-interview-questions-and-answers/)
 - [RC (UK) Cardiac Arrest Management Demo](https://www.youtube.com/@ResusCouncilUK/videos)
 - [Medicine Interview Summary Series: Module 2 - How To Adapt To Online Interviews](https://www.youtube.com/watch?v=B_VFLlX1DdE&list=PLcFE6NYXTWcGoyhDvfe9rBHk20Xo5t5Yk)
 - [How To Tackle ANY Medical Ethics Scenario](https://www.youtube.com/watch?v=k37sIHnMAmc)
