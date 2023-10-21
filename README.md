@@ -1,3 +1,4 @@
+- [Airway stage1](https://www.youtube.com/watch?v=np5_VNapOhQ&t=11s)
 - [Cardiac arrest management / Advanced Life Support Demonstration](https://www.youtube.com/watch?v=ubH0GAMaN28)
 - [Intraosseous access](https://www.youtube.com/watch?v=-CVK96a75io&t=392s)
 - [How to: Start an IO (Humeral and Tibial)](https://www.youtube.com/watch?v=v1aPOxXqgo4)
