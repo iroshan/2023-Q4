@@ -1,3 +1,6 @@
+- [Emergency treatment of anaphylaxis 
+Guidelines for healthcare providers
+Working Group of Resuscitation Council UK](https://www.resus.org.uk/sites/default/files/2021-05/Emergency%20Treatment%20of%20Anaphylaxis%20May%202021_0.pdf)
 - [Defib stage 2](https://www.youtube.com/watch?v=vKXtXj1IRmg&t=1s)
 - [BLS stage 2](https://www.youtube.com/watch?v=_1-ckIYU0zY&t=1s)
 - [Airwa stage 2](https://www.youtube.com/watch?v=-xQRZgwrTIg&t=1s)
