@@ -1,3 +1,4 @@
+- [Defib stage 2](https://www.youtube.com/watch?v=vKXtXj1IRmg&t=1s)
 - [BLS stage 2](https://www.youtube.com/watch?v=_1-ckIYU0zY&t=1s)
 - [Airwa stage 2](https://www.youtube.com/watch?v=-xQRZgwrTIg&t=1s)
 - [Intubation Tips and Tricks](https://www.youtube.com/watch?v=x2FOdgw93sA)
