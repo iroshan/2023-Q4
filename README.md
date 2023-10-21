@@ -1,3 +1,4 @@
+- [SCCM | Surviving Sepsis Campaign Guidelines 2021](https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021#Recommendations)
 - [Emergency treatment of anaphylaxis 
 Guidelines for healthcare providers
 Working Group of Resuscitation Council UK](https://www.resus.org.uk/sites/default/files/2021-05/Emergency%20Treatment%20of%20Anaphylaxis%20May%202021_0.pdf)
