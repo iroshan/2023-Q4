@@ -1,3 +1,4 @@
+- [e-SAFE anaesthesia](https://www.e-safe-anaesthesia.org/)
 - [SCCM | Surviving Sepsis Campaign Guidelines 2021](https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021#Recommendations)
 - [Emergency treatment of anaphylaxis 
 Guidelines for healthcare providers
