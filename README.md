@@ -1,3 +1,4 @@
+- [Intraosseous access](https://www.youtube.com/watch?v=-CVK96a75io&t=392s)
 - [How to: Start an IO (Humeral and Tibial)](https://www.youtube.com/watch?v=v1aPOxXqgo4)
 - [e-SAFE anaesthesia](https://www.e-safe-anaesthesia.org/)
 - [ Adult Reperfusion Therapy STEMI Algorithm ](https://www.e-safe-anaesthesia.org/e_library/13/Management_of_peri-arrest_%20arrhythmia.pdf)
