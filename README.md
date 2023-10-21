@@ -1,3 +1,4 @@
+- [ Adult Reperfusion Therapy STEMI Algorithm ](https://www.e-safe-anaesthesia.org/e_library/13/Management_of_peri-arrest_%20arrhythmia.pdf)
 - [Heart disease 8, Acute Coronary Syndrome management principles](https://www.youtube.com/watch?v=NM-gWuF1hss&t=1s)
 - [Heart disease 8, Acute Coronary Syndrome management principles](https://www.youtube.com/watch?v=NM-gWuF1hss&t=1s)
 - [ Adult Reperfusion Therapy STEMI Algorithm ](https://www.resus.org.uk/sites/default/files/2021-04/Adult%20Reperfusion%20Therapy%20STEMI%20Algorithm%202021.pdf)
