@@ -1,3 +1,4 @@
+- [BLS stage 2](https://www.youtube.com/watch?v=_1-ckIYU0zY&t=1s)
 - [Airwa stage 2](https://www.youtube.com/watch?v=-xQRZgwrTIg&t=1s)
 - [Intubation Tips and Tricks](https://www.youtube.com/watch?v=x2FOdgw93sA)
 - [Airway stage1](https://www.youtube.com/watch?v=np5_VNapOhQ&t=11s)
