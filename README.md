@@ -1,3 +1,4 @@
+- [The Beginners Guide to Bag Mask Ventilation | Essential tips and tricks to ventilate your patient](https://www.youtube.com/watch?v=KqgT_mtdF04)
 - [Croup - Presentation, Management, and Mnemonics](https://www.youtube.com/watch?v=TOwtv_q8DUo&t=41s)
 - [Imaging of Musculoskeletal Disorders](https://www.radiologymasterclass.co.uk/tutorials/musculoskeletal/imaging-joints-bones/bone-cancer)
 - [e-SAFE anaesthesia](https://www.e-safe-anaesthesia.org/)
