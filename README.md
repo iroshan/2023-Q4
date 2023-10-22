@@ -1,3 +1,4 @@
+- [Croup - Presentation, Management, and Mnemonics](https://www.youtube.com/watch?v=TOwtv_q8DUo&t=41s)
 - [Imaging of Musculoskeletal Disorders](https://www.radiologymasterclass.co.uk/tutorials/musculoskeletal/imaging-joints-bones/bone-cancer)
 - [e-SAFE anaesthesia](https://www.e-safe-anaesthesia.org/)
 - [SCCM | Surviving Sepsis Campaign Guidelines 2021](https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021#Recommendations)
