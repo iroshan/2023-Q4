@@ -1,3 +1,4 @@
+- [European-Resuscitation-Council-Guidelines-2021-Ex.pdf](https://cprguidelines.eu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ex.pdf)
 - [Systems Saving Lives - ERC Guidelines 2021](https://www.youtube.com/watch?v=-4hFdyOI7IM&list=PLidtY5d1MXyGZtlzZbnGL0tUHRRR2fuWa&index=2)
 - [The Complete Guide to Intravenous (IV) Cannulation LIVE DEMO | 2022 update](https://www.youtube.com/watch?v=tlR8xqyDjNo)
 - [Intravenous (IV) cannulation compilation with demonstration of 14 procedures](https://www.youtube.com/watch?v=tFyeyn1--qI)
