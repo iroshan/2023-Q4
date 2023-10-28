@@ -1,3 +1,4 @@
+- [ECGs Explained](https://www.youtube.com/watch?v=nH5lFAqiRVQ)
 - [Part 6 - Interactive Healthcare Training - Recovery Position](https://www.youtube.com/watch?v=b2x-PpIUE8U)
 - [Part 5 - Interactive Healthcare Training - Defibrillator Pads](https://www.youtube.com/watch?v=KJErAe8zfoE)
 - [Part 4 - Interactive Healthcare Training - Cardiopulmonary Resuscitation (CPR) -Children and Babies](https://www.youtube.com/watch?v=j8wBUM6Fxfs)
