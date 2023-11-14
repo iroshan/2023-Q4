@@ -1,3 +1,4 @@
+- [Liver Ultrasound Probe Positioning | Transducer Placement For Liver Scanning | Abdominal USG](https://www.youtube.com/playlist?list=PL4cRFWfjMmf_vYnNGABoV3U1KFmJmCHEv)
 - [Right kidney with Voice Over](https://www.youtube.com/@simonstrainingvideos4749/videos)
 - [(80) Radiology Video - radiology made esay - YouTube](https://www.youtube.com/channel/UCauGkRvu7_p0obZ8Yp0bpMw/videos)
 - [Abdominal and Renal Ultrasound](https://www.youtube.com/watch?v=vHb_82-LAF4&list=PLG8Iy5hApoSByrQeVJY0e9_FXm1_DsWEH&index=45)
