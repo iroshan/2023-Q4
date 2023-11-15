@@ -1,3 +1,4 @@
+- [ULTRASOUND IMAGING OF THE KIDNEYS || DR S BOOPATHY || ANATOMY, VARIATIONS, TIPS AND TRICKS ON USG](https://www.youtube.com/watch?v=fA_pkGDgi10)
 - [Renal Ultrasound Cases](https://www.youtube.com/watch?v=8LxC7Ya3j9I)
 - [Basic Renal Ultrasound](https://www.youtube.com/watch?v=QnCHP9PmdTQ&t=6s)
 - [Renal Ultrasound Made Easy: Step-By-Step Guide - POCUS 101](https://www.pocus101.com/renal-ultrasound-made-easy-step-by-step-guide/)
