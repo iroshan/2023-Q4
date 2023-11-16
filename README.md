@@ -1,3 +1,4 @@
+- [USG OF THE URETER & URINARY BLADDER | S BOOPATHY || RENAL DIARIES PART 2 | TECHNIQUE TIPS TUTORIAL](https://www.youtube.com/watch?v=qo3xjtwqt2c&list=PLsjQ6g9GfTbqYlr4MNAEiOI0dHz1W7GgJ&index=21)
 - [ULTRASOUND IMAGING OF THE KIDNEYS || DR S BOOPATHY || ANATOMY, VARIATIONS, TIPS AND TRICKS ON USG](https://www.youtube.com/watch?v=fA_pkGDgi10)
 - [Renal Ultrasound Cases](https://www.youtube.com/watch?v=8LxC7Ya3j9I)
 - [Basic Renal Ultrasound](https://www.youtube.com/watch?v=QnCHP9PmdTQ&t=6s)
