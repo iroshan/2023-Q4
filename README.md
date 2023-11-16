@@ -1,3 +1,4 @@
+- [Abdominal POCUS 1 - Introduction and Normal Findings](https://www.youtube.com/playlist?list=PL3zqbrVG8QYvprxs6tpp-MomaFjKOncGN)
 - [Abdominal POCUS 1 - Introduction and Normal Findings](https://www.youtube.com/watch?v=uPn8sG7gR0M)
 - [Abdominal POCUS 2 - Potential Spaces and Peritoneal Fluid](https://www.youtube.com/watch?v=8wbZ2vMA8AI)
 - [USG OF THE URETER & URINARY BLADDER | S BOOPATHY || RENAL DIARIES PART 2 | TECHNIQUE TIPS TUTORIAL](https://www.youtube.com/watch?v=qo3xjtwqt2c&list=PLsjQ6g9GfTbqYlr4MNAEiOI0dHz1W7GgJ&index=21)
