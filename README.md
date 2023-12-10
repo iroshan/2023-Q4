@@ -1,3 +1,4 @@
+- [The Management of Nausea and Vomiting of Pregnancy and Hyperemesis Gravidarum (Green-top Guideline No.69) | RCOG](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/the-management-of-nausea-and-vomiting-of-pregnancy-and-hyperemesis-gravidarum-green-top-guideline-no-69/)
 - [Scenario: Management - adults | Management | Polycystic ovary syndrome | CKS | NICE](https://cks.nice.org.uk/topics/polycystic-ovary-syndrome/management/management-adults/)
 - [Clinical Institute Withdrawal Assessment of Alcohol Scale, Revised (CIWA-Ar)](https://umem.org/files/uploads/1104212257_CIWA-Ar.pdf)
 - [Home | Microsoft 365](https://www.office.com/?auth=2)
