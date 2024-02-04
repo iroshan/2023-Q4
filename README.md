@@ -1,3 +1,4 @@
+- [(36) Diagnostic Ultrasound - Shoulder Injury Evaluation (2018) - YouTube](https://www.youtube.com/shorts/AW7xgGZoK-s)
 - [Shoulder effusion demo](https://www.youtube.com/watch?v=0j7Wc6dAtcI)
 - [Shoulder Ultrasound Exam](https://www.youtube.com/watch?v=YKvYyRct2jo&t=107s)
 - [How to Scan for Shoulder Bursitis Using Handheld Ultrasound](https://www.youtube.com/watch?v=IlWrkdWaKI8)
