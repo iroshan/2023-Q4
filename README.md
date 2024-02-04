@@ -1,3 +1,4 @@
+- [Rib Fracture and liver injury Ultrasound](https://www.youtube.com/watch?v=M0mmGt06L2E)
 - [Liver trauma](https://www.youtube.com/watch?v=xEG8Aiv41oc)
 - [[GH] Liver Injury with followup (Subcapsular hematoma) - YouTube](https://www.youtube.com/watch?v=8tBwWd2wyLw&t=63s)
 - [Recommendations | Chronic heart failure in adults: diagnosis and management | Guidance | NICE](https://www.nice.org.uk/guidance/ng106/chapter/Recommendations#treating-heart-failure-with-reduced-ejection-fraction)
