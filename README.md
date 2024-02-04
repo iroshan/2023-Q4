@@ -1,3 +1,4 @@
+- [[GH] Liver Injury with followup (Subcapsular hematoma) - YouTube](https://www.youtube.com/watch?v=8tBwWd2wyLw&t=63s)
 - [Recommendations | Chronic heart failure in adults: diagnosis and management | Guidance | NICE](https://www.nice.org.uk/guidance/ng106/chapter/Recommendations#treating-heart-failure-with-reduced-ejection-fraction)
 - [MEGA USS](https://mega.nz/folder/3d8jQZxS#i3dkY2Tu4WtAr6eXLcgmUw)
 - [Haemochromatosis – Zero To Finals](https://zerotofinals.com/medicine/gastroenterology/haemochromatosis/)
