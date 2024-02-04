@@ -1,3 +1,4 @@
+- [Shoulder Ultrasound Exam](https://www.youtube.com/watch?v=YKvYyRct2jo&t=107s)
 - [How to Scan for Shoulder Bursitis Using Handheld Ultrasound](https://www.youtube.com/watch?v=IlWrkdWaKI8)
 - [Rib Fracture and liver injury Ultrasound](https://www.youtube.com/watch?v=M0mmGt06L2E)
 - [Liver trauma](https://www.youtube.com/watch?v=xEG8Aiv41oc)
