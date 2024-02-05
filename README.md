@@ -1,3 +1,4 @@
+- [Acute Renal Parenchymal Disease || Ultrasound || Case 181](https://www.youtube.com/watch?v=fH0mTFoZefw)
 - [Acute Renal Parenchymal Disease || Ultrasound || Case 333](https://www.youtube.com/watch?v=pP_8KzHjkJY)
 - [Subcoracoid bursitis during active external internal rotation](https://www.youtube.com/watch?v=1a1XhfL8xOc)
 - [Ultrasound Tutorial: MSK Series: Shoulder / Rotator Cuff | Radiology Nation](https://www.youtube.com/watch?v=BwSJCkTBN0c&t=87s)
