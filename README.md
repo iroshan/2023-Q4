@@ -1,3 +1,4 @@
+- [GP Training Pay - payscales for ST1 - ST3 including GP registrar net pay - GP Training Support](https://gptraining.info/gp-training-pay-payscales-st1-st3-including-gp-registrar-net-pay/)
 - [Acute Renal Parenchymal Disease || Ultrasound || Case 181](https://www.youtube.com/watch?v=fH0mTFoZefw)
 - [Acute Renal Parenchymal Disease || Ultrasound || Case 333](https://www.youtube.com/watch?v=pP_8KzHjkJY)
 - [Subcoracoid bursitis during active external internal rotation](https://www.youtube.com/watch?v=1a1XhfL8xOc)
