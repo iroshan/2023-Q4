@@ -1,3 +1,4 @@
+- [GitHub - petersem/dockerholics: Apps and examples from the Dockerholics group.](https://github.com/petersem/dockerholics)
 - [Set docker aliases](https://raw.githubusercontent.com/petersem/dockerholics/main/.bashrc)
 - [dockerholics/compose-examples/content at main · petersem/dockerholics](https://github.com/petersem/dockerholics/blob/main/.bashrc)
 - [GP Training Practices 2021 - Google My Maps](https://www.google.com/mymaps/viewer?mid=1ZE1wVaHbRQX4uet0PDHQfdzDwtErtVsd&hl=en)
