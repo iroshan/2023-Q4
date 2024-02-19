@@ -1,3 +1,4 @@
+- [File Transfer - Single-click & Drag-n-drop Upload - awesome-selfhosted](https://awesome-selfhosted.net/tags/file-transfer---single-click--drag-n-drop-upload.html)
 - [GitHub - petersem/dockerholics: Apps and examples from the Dockerholics group.](https://github.com/petersem/dockerholics)
 - [Set docker aliases](https://raw.githubusercontent.com/petersem/dockerholics/main/.bashrc)
 - [dockerholics/compose-examples/content at main · petersem/dockerholics](https://github.com/petersem/dockerholics/blob/main/.bashrc)
