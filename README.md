@@ -1,3 +1,4 @@
+- [Install Docker oneliner script](https://gist.github.com/zulhfreelancer/254c4a157c586dd232c1a51db0f6eac3)
 - [File Transfer - Single-click & Drag-n-drop Upload - awesome-selfhosted](https://awesome-selfhosted.net/tags/file-transfer---single-click--drag-n-drop-upload.html)
 - [GitHub - petersem/dockerholics: Apps and examples from the Dockerholics group.](https://github.com/petersem/dockerholics)
 - [Set docker aliases](https://raw.githubusercontent.com/petersem/dockerholics/main/.bashrc)
