@@ -1,3 +1,4 @@
+- [Learn More About RTT®](https://go.applyrtt.com/powerful-hypnosis?utm_source=email&utm_medium=broadcast&utm_term=MP030924)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter)
 - [Basic Point of Care Echocardiography Views](https://www.youtube.com/watch?v=9VDZCv8KmPQ)
 - [Point-of-care ultrasound of the Kidney: an overview I Dr. Koratala @NephroP](https://www.youtube.com/watch?v=ihtSnlQtSoo)
