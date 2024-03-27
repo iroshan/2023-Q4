@@ -1,3 +1,4 @@
+- [Stop Stressing About Turning Off the Lights When Leaving the Room!](https://www.nytimes.com/wirecutter/reviews/ask-wirecutter-turn-off-the-lights/)
 - [Activities to Teach Position and Direction | TWINKL - Twinkl](https://www.twinkl.lk/resources/planit-maths-primary-teaching-resources/planit-maths-primary-teaching-resources-year-4/planit-maths-primary-teaching-resources-year-4-geometry---position-and-direction)
 - [Twinkl PlanIt - Award Winning Lesson Plans for Primary Schools](https://www.twinkl.lk/resources/planit-primary-teaching-resources)
 - [How to Set PHP Options for Wordpress in Docker](https://www.cloudytuts.com/tutorials/docker/how-to-set-php-options-for-wordpress-in-docker/)
