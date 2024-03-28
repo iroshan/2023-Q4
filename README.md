@@ -1,3 +1,4 @@
+- [Dr. Becky Kennedy on the Stoic Art of Emotional Regulation (and Raising Great Kids)](https://dailystoic.com/dr-becky-kennedy-on-the-stoic-art-of-emotional-regulation-and-raising-great-kids/)
 - [This is the Most Important Skill To Give Them - The Daily Dad](https://dailydad.com/this-is-the-most-important-skill-to-give-them/)
 - [Looking for a book where there is a “signal” they have to investigate.  : r/audiobooks](https://www.reddit.com/r/audiobooks/comments/1bn5kup/looking_for_a_book_where_there_is_a_signal_they/)
 - [National curriculum in England: English programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-english-programmes-of-study/national-curriculum-in-england-english-programmes-of-study)
