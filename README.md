@@ -1,3 +1,4 @@
+- [4 Ways to Wake Up Like a Stoic](https://dailystoic.com/4-ways-to-wake-up-like-a-stoic/)
 - [Why We're Spending So Much Money](https://time.com/6899688/why-we-spend-money-frictionless-transactions/)
 - [Why We're Spending So Much Money](https://time.com/6899688/why-we-spend-money-frictionless-transactions/)
 - [Dr. Becky Kennedy on the Stoic Art of Emotional Regulation (and Raising Great Kids)](https://dailystoic.com/dr-becky-kennedy-on-the-stoic-art-of-emotional-regulation-and-raising-great-kids/)
