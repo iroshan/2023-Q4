@@ -1,3 +1,4 @@
+- [Email & Webhooks ·  BookStack](https://www.bookstackapp.com/docs/admin/email-webhooks/)
 - [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack)
 - [KRDesigns.com](https://krdesigns.com/articles/how-to-install-guacamole-using-docker-step-by-step)
 - [Watch videos, movies, TV series and TV channels instantly.](https://www.stremio.com/)
