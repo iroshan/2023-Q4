@@ -1,3 +1,4 @@
+- [Deploy a Hugo site · Cloudflare Pages docs](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
 - [Complete List](https://themes.gohugo.io/)
 - [Email & Webhooks ·  BookStack](https://www.bookstackapp.com/docs/admin/email-webhooks/)
 - [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack)
