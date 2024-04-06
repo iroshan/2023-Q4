@@ -1,3 +1,4 @@
+- [This Is A Form of Real Poverty - The Daily Dad](https://dailydad.com/this-is-a-form-of-real-poverty/)
 - [Deploy a Hugo site · Cloudflare Pages docs](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
 - [Complete List](https://themes.gohugo.io/)
 - [Email & Webhooks ·  BookStack](https://www.bookstackapp.com/docs/admin/email-webhooks/)
