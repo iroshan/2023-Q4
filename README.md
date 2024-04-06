@@ -1,3 +1,4 @@
+- [Rich Is How Much You Get To See Your Kids - The Daily Dad](https://dailydad.com/rich-is-how-much-you-get-to-see-your-kids/)
 - [This Is A Form of Real Poverty - The Daily Dad](https://dailydad.com/this-is-a-form-of-real-poverty/)
 - [Deploy a Hugo site · Cloudflare Pages docs](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
 - [Complete List](https://themes.gohugo.io/)
