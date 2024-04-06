@@ -1,3 +1,4 @@
+- [Docker Compose | n8n Docs](https://docs.n8n.io/hosting/installation/server-setups/docker-compose/)
 - [muesli/beehive](https://github.com/muesli/beehive)
 - [Elsbeth – PSArips](https://psa.wf/tv-show/110548/)
 - [Rich Is How Much You Get To See Your Kids - The Daily Dad](https://dailydad.com/rich-is-how-much-you-get-to-see-your-kids/)
