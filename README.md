@@ -1,3 +1,4 @@
+- [Quick Web Server with Nginx on Docker Compose](https://dev.to/aminnairi/quick-web-server-with-nginx-on-docker-compose-43ol)
 - [Love More, Fight Less: Communication Skills Every Couple Needs: A Relationship Workbook for Couples: Senarighi PhD CPC, Gina: 9780593196656: Amazon.com: Books](https://www.amazon.com/Love-More-Fight-Less-Communication/dp/0593196651)
 - [Overcome Anxiety: Break Free From Fear, Worry, Trauma, and Negative Thinking: Steinberg PhD, Mark: 9798987485620: Amazon.com: Books](https://www.amazon.com/Overcome-Anxiety-Trauma-Negative-Thinking/dp/B0CPVFVVBT)
 - [Secure Relating: Holding Your Own in an Insecure World: Marriott, Sue, Kelley, Ann: 9780063334557: Amazon.com: Books](https://www.amazon.com/Secure-Relating-Holding-Insecure-World/dp/0063334550)
