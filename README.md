@@ -1,3 +1,4 @@
+- [But What Will People Say?: Navigating Mental Health, Identity, Love, and Family Between Cultures - Kindle edition by Kaur Kohli, Sahaj. Self-Help Kindle eBooks @ Amazon.com.](https://www.amazon.com/But-What-Will-People-Say-ebook/dp/B0CDZVMDMR)
 - [Present Perfect Simple (to talk about experiences)](https://www.youtube.com/watch?v=3X9zcX6lZtI)
 - [English Job Interview Dos & Dont's! | English Conversation Practice](https://www.youtube.com/watch?v=-JNjsOX0N0c)
 - [20 Best Career Objective Examples for IT Positions – Best Resume Objective Examples](https://bestresumeobjectiveexamples.com/20-best-career-objective-examples-for-it-positions/)
