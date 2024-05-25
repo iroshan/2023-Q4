@@ -1,3 +1,4 @@
+- [Love A Lazy Day? You Should Be Having Them Way More Often Than You Think](https://www.huffingtonpost.co.uk/entry/this-is-why-you-should-have-one-lazy-day-per-week_uk_6571e706e4b0f96b99da5180)
 - [How Were The Pyramids Built? The Truth Behind One Of Ancient History's Greatest Mysteries](https://allthatsinteresting.com/how-were-the-pyramids-built)
 - [How to Answer "Tell Me About Your Work Experience"](https://talent500.co/blog/how-to-answer-tell-me-about-your-work-experience/)
 - [Present Perfect Simple (to talk about experiences)](https://www.youtube.com/watch?v=3X9zcX6lZtI)
