@@ -1,3 +1,4 @@
+- [25 Journal Prompts For Stress And Anxiety](https://www.theodysseyonline.com/stress-management-journal-prompts)
 - [Amazon.com: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing: 0710308291511: Marie Kondō: Books](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308)
 - [Love A Lazy Day? You Should Be Having Them Way More Often Than You Think](https://www.huffingtonpost.co.uk/entry/this-is-why-you-should-have-one-lazy-day-per-week_uk_6571e706e4b0f96b99da5180)
 - [How Were The Pyramids Built? The Truth Behind One Of Ancient History's Greatest Mysteries](https://allthatsinteresting.com/how-were-the-pyramids-built)
