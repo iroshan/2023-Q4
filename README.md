@@ -1,3 +1,4 @@
+- ["Dead Butt Syndrome" Is A Real Thing — Here's How To Tell If You Have It](https://www.huffpost.com/entry/dead-butt-syndrome-ano_l_65fc98d9e4b07c954d551e35)
 - [12 Google Maps Secrets All Travelers Should Know](https://www.afar.com/magazine/the-google-maps-features-all-travelers-should-know-about)
 - [How to Arrange Your Bedroom for Better Sleep](https://betterreport.com/how-to-arrange-bedroom-for-better-sleep/)
 - [25 Journal Prompts For Stress And Anxiety](https://www.theodysseyonline.com/stress-management-journal-prompts)
