@@ -1,3 +1,4 @@
+- [12 Google Maps Secrets All Travelers Should Know](https://www.afar.com/magazine/the-google-maps-features-all-travelers-should-know-about)
 - [How to Arrange Your Bedroom for Better Sleep](https://betterreport.com/how-to-arrange-bedroom-for-better-sleep/)
 - [25 Journal Prompts For Stress And Anxiety](https://www.theodysseyonline.com/stress-management-journal-prompts)
 - [Amazon.com: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing: 0710308291511: Marie Kondō: Books](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308)
