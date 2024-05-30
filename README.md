@@ -1,3 +1,4 @@
+- [7 of the Quirkiest Road Stops in the U.S. — Daily Passport](https://dailypassport.com/quirkiest-road-stops-us/)
 - [Overwhelmed With Clutter? Try the “5 Things Tidying Method" to Finally Conquer the Mess](https://www.realsimple.com/the-5-things-tidying-method-8646127)
 - ["Dead Butt Syndrome" Is A Real Thing — Here's How To Tell If You Have It](https://www.huffpost.com/entry/dead-butt-syndrome-ano_l_65fc98d9e4b07c954d551e35)
 - [12 Google Maps Secrets All Travelers Should Know](https://www.afar.com/magazine/the-google-maps-features-all-travelers-should-know-about)
