@@ -1,3 +1,4 @@
+- [Why Does Rain Smell?](https://www.forbes.com/sites/marshallshepherd/2023/07/19/why-does-rain-smell/)
 - [I'm A Spine Doctor. Here's 1 Thing I'd Never, Ever Do If I Had Back Pain.](https://www.huffpost.com/entry/spine-back-pain-advice_l_66324140e4b0fc2b9527d375)
 - [Are Hotel Room Safes Safe? The Surprising Truth Behind Online Fears | Frommer's](https://www.frommers.com/tips/hotel-news/are-hotel-room-safes-safe-the-surprising-truth-behind-online-fears?utm_source=recommendedreads.com)
 - [The Surprising Reason People Are Putting Diaper Rash Ointment on Their Face](https://uniquebeauty.com/diaper-cream-face-basting-trend/)
