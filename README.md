@@ -1,3 +1,4 @@
+- [Are Hotel Room Safes Safe? The Surprising Truth Behind Online Fears | Frommer's](https://www.frommers.com/tips/hotel-news/are-hotel-room-safes-safe-the-surprising-truth-behind-online-fears?utm_source=recommendedreads.com)
 - [The Surprising Reason People Are Putting Diaper Rash Ointment on Their Face](https://uniquebeauty.com/diaper-cream-face-basting-trend/)
 - [Should You Have More Than One Credit Card?](https://betterreport.com/is-it-good-to-have-multiple-credit-cards/)
 - [Granite Is No Longer the Most Popular Kitchen Countertop — Here’s What Is](https://www.apartmenttherapy.com/quartz-vs-granite-countertops-which-is-more-popular-242008)
