@@ -1,3 +1,4 @@
+- [The Surprising Reason People Are Putting Diaper Rash Ointment on Their Face](https://uniquebeauty.com/diaper-cream-face-basting-trend/)
 - [Should You Have More Than One Credit Card?](https://betterreport.com/is-it-good-to-have-multiple-credit-cards/)
 - [Granite Is No Longer the Most Popular Kitchen Countertop — Here’s What Is](https://www.apartmenttherapy.com/quartz-vs-granite-countertops-which-is-more-popular-242008)
 - [7 of the Quirkiest Road Stops in the U.S. — Daily Passport](https://dailypassport.com/quirkiest-road-stops-us/)
