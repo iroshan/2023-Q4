@@ -1,3 +1,4 @@
+- [Make your views more accurate in just a few minutes](https://programs.clearerthinking.org/challenge_your_deepest_beliefs.html)
 - [Why Do Your Pillows Turn Yellow?](https://uniquebeauty.com/why-do-pillows-turn-yellow/)
 - [Name-Brand vs. Generic: Which One Should You Buy?](https://betterreport.com/name-brand-vs-generic-foods/)
 - [Benjamin Franklin created a new alphabet.](https://historyfacts.com/famous-figures/fact/benjamin-franklin-created-a-new-alphabet/)
