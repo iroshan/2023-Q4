@@ -1,3 +1,4 @@
+- [Why Do Your Pillows Turn Yellow?](https://uniquebeauty.com/why-do-pillows-turn-yellow/)
 - [Name-Brand vs. Generic: Which One Should You Buy?](https://betterreport.com/name-brand-vs-generic-foods/)
 - [Benjamin Franklin created a new alphabet.](https://historyfacts.com/famous-figures/fact/benjamin-franklin-created-a-new-alphabet/)
 - [Airline meals used to be plentiful and luxurious. Here’s what happened | CNN Business](https://www.cnn.com/2024/05/11/business/airplane-food-travel/index.html)
