@@ -1,3 +1,4 @@
+- [Name-Brand vs. Generic: Which One Should You Buy?](https://betterreport.com/name-brand-vs-generic-foods/)
 - [Benjamin Franklin created a new alphabet.](https://historyfacts.com/famous-figures/fact/benjamin-franklin-created-a-new-alphabet/)
 - [Airline meals used to be plentiful and luxurious. Here’s what happened | CNN Business](https://www.cnn.com/2024/05/11/business/airplane-food-travel/index.html)
 - [If These Apps Are Still on Your Phone, Someone May Be Spying on You](https://www.rd.com/list/phone-apps-spying-on-you/)
