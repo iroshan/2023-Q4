@@ -1,3 +1,4 @@
+- [5 Sneaky Ways Corporate America is Getting You to Spend More Money – The Penny Hoarder](https://partners.thepennyhoarder.com/corporate-america-prt/?aff_id=388&utm_source=optimism&aff_sub3=corporate-america)
 - [UNLOCKED INTENTION SETTING MASTERCLASS 2024](https://www.mkmagicmindset.com/unlockedintentionsetting)
 - [WPBA assessments](https://www.rcgp.org.uk/mrcgp-exams/wpba/assessments)
 - [Beyond Happiness: The 6 Secrets of Lifetime Satisfaction: Guttman, Dr. Jennifer: 9781637587942: Amazon.com: Books](https://www.amazon.com/Beyond-Happiness-Secrets-Lifetime-Satisfaction/dp/1637587945)
