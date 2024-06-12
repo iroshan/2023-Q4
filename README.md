@@ -1,3 +1,4 @@
+- [We Face The Path Of Time](https://dailystoic.com/we-face-the-path-of-time/)
 - [Lead Employer - MWL |  New Starter FAQ's](https://leademployer.merseywestlancs.nhs.uk/new-starters-faqs)
 - [5 Sneaky Ways Corporate America is Getting You to Spend More Money – The Penny Hoarder](https://partners.thepennyhoarder.com/corporate-america-prt/?aff_id=388&utm_source=optimism&aff_sub3=corporate-america)
 - [UNLOCKED INTENTION SETTING MASTERCLASS 2024](https://www.mkmagicmindset.com/unlockedintentionsetting)
