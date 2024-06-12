@@ -1,3 +1,4 @@
+- [Let's talk about why gas stations charge more for credit cards](https://qz.com/gas-stations-credit-cards-cash-cost-1851505759)
 - [News blips for June 2024: Not trying to scare you](https://sharonahill.com/news-blips-not-trying-to-scare-you/)
 - [We Face The Path Of Time](https://dailystoic.com/we-face-the-path-of-time/)
 - [Lead Employer - MWL |  New Starter FAQ's](https://leademployer.merseywestlancs.nhs.uk/new-starters-faqs)
