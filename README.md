@@ -1,3 +1,4 @@
+- [GPConsult.co.uk - save three minutes per consultation](https://gpconsult.co.uk/)
 - [It’s a Tough Choice - The Daily Dad](https://dailydad.com/its-a-tough-choice/)
 - [The Salary Calculator - Take-Home tax calculator](https://www.thesalarycalculator.co.uk/salary.php)
 - [Why You Should Throw Out Your Plastic Cutting Boards](https://betterreport.com/should-you-use-plastic-cutting-boards/)
