@@ -1,3 +1,4 @@
+- [The Salary Calculator - Take-Home tax calculator](https://www.thesalarycalculator.co.uk/salary.php)
 - [Why You Should Throw Out Your Plastic Cutting Boards](https://betterreport.com/should-you-use-plastic-cutting-boards/)
 - [Let's talk about why gas stations charge more for credit cards](https://qz.com/gas-stations-credit-cards-cash-cost-1851505759)
 - [News blips for June 2024: Not trying to scare you](https://sharonahill.com/news-blips-not-trying-to-scare-you/)
