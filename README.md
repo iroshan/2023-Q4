@@ -1,3 +1,4 @@
+- [It’s a Tough Choice - The Daily Dad](https://dailydad.com/its-a-tough-choice/)
 - [The Salary Calculator - Take-Home tax calculator](https://www.thesalarycalculator.co.uk/salary.php)
 - [Why You Should Throw Out Your Plastic Cutting Boards](https://betterreport.com/should-you-use-plastic-cutting-boards/)
 - [Let's talk about why gas stations charge more for credit cards](https://qz.com/gas-stations-credit-cards-cash-cost-1851505759)
