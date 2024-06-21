@@ -1,3 +1,4 @@
+- [Eyrescroft, Bretton, Peterborough](https://epropertyline.com/eyrescroft-bretton-peterborough-prd17702192#)
 - [5 bed terraced house to rent in Eyrescroft, Bretton, Peterborough PE3, £1,000 pcm - Zoopla](https://www.zoopla.co.uk/to-rent/details/67424879/)
 - [Check out this 3 bedroom terraced house for rent on Rightmove](https://www.rightmove.co.uk/properties/149030867)
 - [3 bed end terrace house to rent in Muskham, Peterborough PE3, £995 pcm - Zoopla](https://www.zoopla.co.uk/to-rent/details/67620245/)
