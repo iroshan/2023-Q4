@@ -1,3 +1,4 @@
+- [3 bed property to rent in Cathwaite, Peterborough PE4, £1,000 pcm - Zoopla](https://www.zoopla.co.uk/to-rent/details/67637290/)
 - [Check out this 6 bedroom flat for rent on Rightmove](https://www.rightmove.co.uk/properties/145487729)
 - [Check out this 3 bedroom apartment for rent on Rightmove](https://www.rightmove.co.uk/properties/149356064)
 - [World's most advanced nuclear reactor is now under construction](https://briandunning.substack.com/p/worlds-most-advanced-nuclear-reactor?publication_id=1281307&utm_campaign=email-post-title&r=nok7p&utm_medium=email)
