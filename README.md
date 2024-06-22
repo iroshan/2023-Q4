@@ -1,3 +1,4 @@
+- [Try Out These 12 New Habits to Reinvent Your Health This Summer](https://www.cnet.com/health/try-out-these-12-new-habits-to-reinvent-your-health-this-summer/)
 - [Check out this 3 bedroom flat for rent on Rightmove](https://www.rightmove.co.uk/properties/149126834)
 - [Eyrescroft, Bretton, Peterborough](https://epropertyline.com/eyrescroft-bretton-peterborough-prd17702192#)
 - [5 bed terraced house to rent in Eyrescroft, Bretton, Peterborough PE3, £1,000 pcm - Zoopla](https://www.zoopla.co.uk/to-rent/details/67424879/)
