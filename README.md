@@ -1,3 +1,4 @@
+- [7 Tips to a More Organized Fridge and Freezer](https://www.aarp.org/home-family/your-home/info-2024/how-to-organize-fridge-and-freezer.html)
 - [16 Pantry Items You’re Probably Keeping for Too Long](https://www.rd.com/list/pantry-items-keeping-too-long/)
 - [7 Tips to a More Organized Fridge and Freezer](https://www.aarp.org/home-family/your-home/info-2024/how-to-organize-fridge-and-freezer.html)
 - [Do You Really Need to Use Toothpaste?](https://betterreport.com/do-you-need-toothpaste/)
