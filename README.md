@@ -1,3 +1,4 @@
+- [The "60-30-10" Rule Makes Decorating a Home So Much Easier](https://www.realsimple.com/60-30-10-rule-8661639)
 - [7 Tips to a More Organized Fridge and Freezer](https://www.aarp.org/home-family/your-home/info-2024/how-to-organize-fridge-and-freezer.html)
 - [16 Pantry Items You’re Probably Keeping for Too Long](https://www.rd.com/list/pantry-items-keeping-too-long/)
 - [7 Tips to a More Organized Fridge and Freezer](https://www.aarp.org/home-family/your-home/info-2024/how-to-organize-fridge-and-freezer.html)
