@@ -1,3 +1,4 @@
+- [Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe/)
 - [Pinging.net - Monitor Your Internet Connection](https://www.pinging.net)
 - [The "60-30-10" Rule Makes Decorating a Home So Much Easier](https://www.realsimple.com/60-30-10-rule-8661639)
 - [7 Tips to a More Organized Fridge and Freezer](https://www.aarp.org/home-family/your-home/info-2024/how-to-organize-fridge-and-freezer.html)
