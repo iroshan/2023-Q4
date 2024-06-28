@@ -1,3 +1,4 @@
+- [3-2-1: The excuses we live by, how to handle your mistakes, and when productivity doesn't matter](https://jamesclear.com/3-2-1/june-27-2024)
 - [Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe/)
 - [Pinging.net - Monitor Your Internet Connection](https://www.pinging.net)
 - [The "60-30-10" Rule Makes Decorating a Home So Much Easier](https://www.realsimple.com/60-30-10-rule-8661639)
