@@ -1,3 +1,4 @@
+- [Finally, This Is How to Organize Your Bathroom Once and for All](https://camillestyles.com/design/how-to-organize-your-bathroom/)
 - [11 Kitchen Storage Ideas to Make Your Small Space Easier to Cook In](https://www.architecturaldigest.com/story/kitchen-storage-ideas-for-your-small-space)
 - [Check out this 3 bedroom house for rent on Rightmove](https://www.rightmove.co.uk/properties/147511202)
 - [Delen: Home - NHS England](https://nhsengland.kahootz.com/connect.ti/t_c_home/grouphome)
