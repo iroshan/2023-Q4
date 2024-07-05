@@ -1,3 +1,4 @@
+- [Ente Auth - 2FA Authenticator - Apps on Google Play](https://play.google.com/web/store/apps/details?id=io.ente.auth&hl=en)
 - [ente/auth at main · ente-io/ente](https://github.com/ente-io/ente/tree/main/auth#-download)
 - [Tick Symbols - Copy and paste Tick text symbols ✓ ✔ ☑](https://www.madeintext.com/tick-symbols/)
 - [If You're Always Having To Flush Your Toilet Twice, This Is Likely Why - House Digest](https://www.housedigest.com/1602783/why-flush-toilet-twice-empty-water-bowl/)
