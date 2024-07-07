@@ -1,3 +1,4 @@
+- [The happiest people use these 3 phrases often, from psychologists and workplace experts](https://www.cnbc.com/2024/06/23/phrases-happy-people-in-finland-denmark-often-use.html)
 - [A Pinch of Sugar Can Make Your Lawn Greener (Really!)](https://betterreport.com/add-sugar-to-lawn/)
 - [Check out this 3 bedroom flat for rent on Rightmove](https://www.rightmove.co.uk/properties/149126834)
 - [Ente Auth - 2FA Authenticator - Apps on Google Play](https://play.google.com/web/store/apps/details?id=io.ente.auth&hl=en)
