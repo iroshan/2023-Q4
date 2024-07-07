@@ -1,3 +1,4 @@
+- [A Pinch of Sugar Can Make Your Lawn Greener (Really!)](https://betterreport.com/add-sugar-to-lawn/)
 - [Check out this 3 bedroom flat for rent on Rightmove](https://www.rightmove.co.uk/properties/149126834)
 - [Ente Auth - 2FA Authenticator - Apps on Google Play](https://play.google.com/web/store/apps/details?id=io.ente.auth&hl=en)
 - [ente/auth at main · ente-io/ente](https://github.com/ente-io/ente/tree/main/auth#-download)
